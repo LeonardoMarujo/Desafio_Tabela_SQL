@@ -23,6 +23,10 @@ Montar uma tabela, como nesse exemplo.
 
 ![Tabela_Desafio](Desafio/Desafio_tabela.png)
 
+# Acesso à Resolução
+
+Você pode acessar à resolução do projeto clicando [aqui](Resolução/desafio_CTE.sql).
+
 
 
 
