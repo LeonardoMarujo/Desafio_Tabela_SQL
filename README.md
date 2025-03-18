@@ -19,8 +19,11 @@ Abaixo temos o Modelo Lógico do Banco de Dados.
 - ``VS Code``
 
 
-# Pergunta
-![Perguntas](Perguntas/Atividades_Gerais_Modulo2.png)
+# Desafio
+
+Montar uma tabela, como nesse exemplo.
+
+![Tabela_Desafio](Desafio/Desafio_tabela.png)
 
 
 
